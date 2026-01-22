@@ -1,4 +1,3 @@
-# Solar_Energy_Prediction
 # ☀️ Solar Energy Prediction
 
 A machine learning-powered REST API that predicts solar energy generation with high accuracy. Built with scikit-learn, Flask, and Docker for easy deployment and scalability.
